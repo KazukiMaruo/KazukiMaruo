@@ -1,4 +1,5 @@
-## Hi there 👋
+# 👋👋👋 Ciao 
+I'm Kazuki and currently a PhD student in cognitive neuroscience.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
