@@ -15,7 +15,12 @@ _I'm Kazuki 🇯🇵_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazukiMaruo&layout=compact&theme=dracula)](https://github.com/KazukiMaruo/github-readme-stats)
 
-# Passions
+# Passion
 * _Innovative pedagogy for early childhood_
-* _Delivering findings necessary for society_
+
+
+# Hobbies
+* _Football ⚽_
+* _Ping pong 🏓_
+* _Sauna_
 
