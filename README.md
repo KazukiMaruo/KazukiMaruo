@@ -8,18 +8,17 @@ I'm Kazuki 🇯🇵
 > 2018-22 🇯🇵
   * **BA** in psychology at the Sophia University 
 
+# Passion
+* Innovative pedagogy for early childhood
+* Exploring start-up systems for mathematics
+
 
 # Skills 👨‍💻
-
 [![My Skills](https://skillicons.dev/icons?i=apple,matlab,r,py,vscode,pr,ae,ps,latex)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazukiMaruo&layout=compact&theme=tokyonight)](https://github.com/KazukiMaruo/github-readme-stats)
 
 ![GitHub Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazukiMaruo&theme=tokyonight)
-
-
-# Passion
-* Innovative pedagogy for early childhood
 
 
 # Hobbies
