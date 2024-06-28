@@ -13,7 +13,7 @@ _I'm Kazuki 🇯🇵_
 
 [![My Skills](https://skillicons.dev/icons?i=apple,matlab,r,py,vscode,pr,ae,ps,latex)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazukiMaruo&layout=compact&theme=dracula)](https://github.com/KazukiMaruo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazukiMaruo&layout=compact&theme=tokyonight)](https://github.com/KazukiMaruo/github-readme-stats)
 
 ![GitHub Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazukiMaruo&theme=tokyonight)
 
