@@ -8,7 +8,7 @@ I'm Kazuki 🇯🇵
 > 2018-22 🇯🇵
   * **BA** in psychology at the Sophia University 
 
-# Passion
+# Passion 🔥
 * Innovative pedagogy for early childhood
 * Exploring start-up systems for mathematics
 
@@ -21,10 +21,10 @@ I'm Kazuki 🇯🇵
 ![GitHub Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazukiMaruo&theme=tokyonight)
 
 
-# Hobbies
+# Hobbies 😁
 * Football ⚽
 * Ping pong 🏓
 * Sauna
 
-# Contact
+# Contact 📤
 * kazuki.maruo@studenti.unitn.it
