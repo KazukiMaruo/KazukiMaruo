@@ -1,6 +1,6 @@
 # Ciao 👋👋👋
 
-*_I'm Kazuki 🇯🇵_
+## _I'm Kazuki 🇯🇵_
 *_PhD student in cognitive neuroscience at the Max Planck Institute for Human Brain and Cognitive Science 🇩🇪_
 
 
