@@ -1,11 +1,11 @@
 # Ciao 👋
 
 _I'm Kazuki 🇯🇵_
-* _Since 2024:_
+* _Since 2024_
   * _**PhD** in psychology at the Max Planck Institute for Human Brain and Cognitive Science 🇩🇪_
-* _2022-24:_
+* _2022-24_
   * _**MSc** in cognitive neuroscience at the University of Trento, Center for Mind and Brain Science 🇮🇹_
-* _2018-22:_
+* _2018-22_
   * _**BA** in psychology at the Sophia University 🇯🇵_
 
 
