@@ -1,7 +1,7 @@
 # 👋👋👋 Ciao 
 I'm Kazuki and currently a PhD student in cognitive neuroscience at the Max Planck Institute for Human Brain and Cognitive Science.
 
-[![My Skills](https://skillicons.dev/icons?i=apple,matlab,r,py,vscode,pr,ae,ps,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,matlab,r,py,vscode,pr,ae,ps,latex&perline=3)](https://skillicons.dev)
 
 <!--
 **KazukiMaruo/KazukiMaruo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
