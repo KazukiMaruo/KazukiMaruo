@@ -26,3 +26,5 @@ I'm Kazuki 🇯🇵
 * Ping pong 🏓
 * Sauna
 
+# Contact
+* kazuki.maruo@studenti.unitn.it
