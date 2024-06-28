@@ -5,6 +5,8 @@ I'm Kazuki and currently a PhD student in cognitive neuroscience at the Max Plan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazukiMaruo&layout=compact&theme=dracula)](https://github.com/KazukiMaruo/github-readme-stats)
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazukiMaruo&theme=dracula
+
 <!--
 **KazukiMaruo/KazukiMaruo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
