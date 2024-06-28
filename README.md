@@ -1,12 +1,12 @@
 # Ciao 👋
 
-_I'm Kazuki 🇯🇵_
-* _Since 2024_
-  * _**PhD** in psychology at the Max Planck Institute for Human Brain and Cognitive Science 🇩🇪_
+I'm Kazuki 🇯🇵
+* Since 2024
+  * **PhD** in psychology at the Max Planck Institute for Human Brain and Cognitive Science 🇩🇪
 * _2022-24_
-  * _**MSc** in cognitive neuroscience at the University of Trento, Center for Mind and Brain Science 🇮🇹_
-* _2018-22_
-  * _**BA** in psychology at the Sophia University 🇯🇵_
+  * **MSc** in cognitive neuroscience at the University of Trento, Center for Mind and Brain Science 🇮🇹
+* 2018-22
+  * **BA** in psychology at the Sophia University 🇯🇵
 
 
 # Skills 👨‍💻
@@ -19,11 +19,11 @@ _I'm Kazuki 🇯🇵_
 
 
 # Passion
-* _Innovative pedagogy for early childhood_
+* Innovative pedagogy for early childhood
 
 
 # Hobbies
-* _Football ⚽_
-* _Ping pong 🏓_
-* _Sauna_
+* Football ⚽
+* Ping pong 🏓
+* Sauna
 
