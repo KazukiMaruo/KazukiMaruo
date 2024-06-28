@@ -17,4 +17,5 @@ _I'm Kazuki 🇯🇵_
 
 # Passions
 * _Innovative pedagogy for early childhood_
+* _Delivering findings necessary for society_
 
