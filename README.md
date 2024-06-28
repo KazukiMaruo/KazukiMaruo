@@ -1,7 +1,7 @@
 # 👋👋👋 Ciao 
 I'm Kazuki and currently a PhD student in cognitive neuroscience.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,matlab,r,py,vscode,pr,ae,ps,latex)](https://skillicons.dev)
 
 <!--
 **KazukiMaruo/KazukiMaruo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
