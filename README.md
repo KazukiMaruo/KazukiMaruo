@@ -4,6 +4,8 @@
 * _PhD student in cognitive neuroscience at the Max Planck Institute for Human Brain and Cognitive Science 🇩🇪_
 
 
+# Skills 🧠
+
 [![My Skills](https://skillicons.dev/icons?i=apple,matlab,r,py,vscode,pr,ae,ps,latex)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazukiMaruo&layout=compact&theme=dracula)](https://github.com/KazukiMaruo/github-readme-stats)
