@@ -10,7 +10,7 @@ I'm Kazuki 🇯🇵
 
 # Passion 🔥
 * Innovative pedagogy for early childhood
-* Exploring start-up systems for mathematics
+* Exploring start-up systems for arithmetics
 
 
 # Skills 👨‍💻
