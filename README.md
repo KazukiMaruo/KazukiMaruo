@@ -27,4 +27,4 @@ I'm Kazuki 🇯🇵
 * Sauna
 
 # Contact 📤
-* kazuki.maruo@studenti.unitn.it
+* kazuki@cbs.mpg.de
