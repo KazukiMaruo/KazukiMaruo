@@ -14,6 +14,8 @@ I'm Kazuki 🇯🇵
 
 # Portfolio 📚️
 > 2025 [MINT repository](https://github.com/KazukiMaruo/2025_MINT).
+> 2024 [ALGLIO repository](https://github.com/KazukiMaruo/2024_ALGLIO).
+> 2023 [QESPORT repository](https://github.com/KazukiMaruo/2023_QESPORT).
 
 # Skills 👨‍💻
 [![My Skills](https://skillicons.dev/icons?i=apple,matlab,r,py,vscode,pr,ae,ps,latex)](https://skillicons.dev)
