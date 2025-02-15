@@ -12,7 +12,7 @@ I'm Kazuki 🇯🇵
 * Innovative pedagogy for early childhood
 * Exploring start-up systems for arithmetics
 
-# Portfolio 📚️
+# Research Portfolio 📚️
 > 2025 [MINT repository](https://github.com/KazukiMaruo/2025_MINT).
 
 > 2024 [ALGLIO repository](https://github.com/KazukiMaruo/2024_ALGLIO).
