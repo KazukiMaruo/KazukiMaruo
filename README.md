@@ -13,6 +13,8 @@ I'm Kazuki 🇯🇵
 * Exploring start-up systems for arithmetics
 
 # Research Portfolio 📚️
+> 2025 [EMPRISE2 repository](https://github.com/KazukiMaruo/2025_EMPRISE2).
+
 > 2025 [MINT repository](https://github.com/KazukiMaruo/2025_MINT).
 
 > 2024 [ALGLIO repository](https://github.com/KazukiMaruo/2024_ALGLIO).
