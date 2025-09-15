@@ -3,12 +3,12 @@
 I'm Kazuki 🇯🇵
 > 2025~ 🇩🇪
   * **PhD** at the Institute of Child and Adolescent Psychiatry at Kiel University
-> 2024~ 🇩🇪
+> 2024-25 🇩🇪
   * **PhD** at the Max Planck Institute for Human Brain and Cognitive Science
 > 2022-24 🇮🇹
   * **MSc** in cognitive neuroscience at the University of Trento, Center for Mind and Brain Science
 > 2018-22 🇯🇵
-  * **BA** in psychology at the Sophia University 
+  * **BA** in psychology at Sophia University 
 
 # Passion 🔥
 * Innovative pedagogy for early childhood
