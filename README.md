@@ -35,4 +35,4 @@ I'm Kazuki 🇯🇵
 * Sauna
 
 # Contact 📤
-* kazuki@cbs.mpg.de
+* Kazuki.Maruo@uksh.de
